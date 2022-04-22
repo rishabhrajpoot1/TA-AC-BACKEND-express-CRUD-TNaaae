@@ -10,4 +10,15 @@ Create a user resource
 6. return created user or error in response
 
 - if success, return index page i.e. "/" path
+
+
+
+
+
+
+
+
+
+
+
 - if error, return back to users create form
