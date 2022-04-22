@@ -4,6 +4,17 @@ In previous application, delete a user using a delete button
 
 handle a route i.e. GET request on "/users/:userId/delete"
 
+
+
+
+
+
+
+
+
+
+
+
 ### Note:-
 
 Conventionally, deleting a resource requires DELETE http method,
