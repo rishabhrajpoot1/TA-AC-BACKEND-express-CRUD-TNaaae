@@ -6,6 +6,17 @@ Q. Create an express application named `user-diary-2`
 - connect to mongodb database
 - use public to store static assets
 
+
+
+
+
+
+
+
+
+
+
+
 Handle CRUD operation and display user content in respective HTML pages using ejs templates.
 
 Since we are going to save user data into database , create a user schema(inside models directory) with fields:
