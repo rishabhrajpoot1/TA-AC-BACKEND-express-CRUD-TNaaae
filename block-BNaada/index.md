@@ -11,6 +11,10 @@ In previous application
 
 2. Display single user
 
+
+
+
+
 - create a GET request on "/users/:id"
 - get id using req.params.id
 - fetch user from database using id received from params
