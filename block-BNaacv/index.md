@@ -5,6 +5,13 @@ Q. create an express app named `user-diary` from scratch
 - use ejs as template engine
 - navigate to application
 
+
+
+
+
+
+
+
 - create users router to handle routes for below tasks.
 - handle the following routes inside users router:
   - list users
