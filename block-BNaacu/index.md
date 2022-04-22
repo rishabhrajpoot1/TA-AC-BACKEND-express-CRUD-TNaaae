@@ -7,6 +7,12 @@ Inside students routes file, create routes to
 
 - create a student => POST request on "/students" route
 
+
+
+
+
+
+
 - list all students => GET request on "/students" route
 
   - render an ejs template
